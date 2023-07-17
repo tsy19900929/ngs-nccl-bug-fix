@@ -12,4 +12,4 @@
 3.点击“加载已解压的扩展程序”，选择NCCL_fix文件夹  
 4.直接https://ngs.nccl.org.cn/v2/index.html#/bioinformatics/data_statistics  
 5.等3秒   
-
+6.整体提交完后，卸载或者禁用插件，可目视已上传的数据
